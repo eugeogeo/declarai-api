@@ -1,0 +1,11 @@
+{
+  "name": "declarai-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eugeogeo/declarai-api",
+  "author": "Geovana Figueiredo Silva <geovanaf1912@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
